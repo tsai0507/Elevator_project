@@ -1,0 +1,1 @@
+cmd_/home/leo/EOS/final/combine0611_rpi/Module.symvers := sed 's/\.ko$$/\.o/' /home/leo/EOS/final/combine0611_rpi/modules.order | scripts/mod/modpost -m -a  -o /home/leo/EOS/final/combine0611_rpi/Module.symvers -e -i Module.symvers   -T -

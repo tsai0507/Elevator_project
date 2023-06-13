@@ -1,0 +1,1 @@
+cmd_/home/leo/EOS/final/combine0611_rpi/ele_driver.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/leo/EOS/final/combine0611_rpi/ele_driver.ko /home/leo/EOS/final/combine0611_rpi/ele_driver.o /home/leo/EOS/final/combine0611_rpi/ele_driver.mod.o;  true
