@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdbool.h": "c",
-        "type.h": "c",
-        "bitmap.h": "c",
-        "device_output.h": "c",
-        "kernel_tool.h": "c"
-    }
-}
